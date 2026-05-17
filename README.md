@@ -25,9 +25,12 @@
   <br/>
 
   ### 📊 GitHub Stats
-  ![Noor Ullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noorullah814&show_icons=true&theme=tokyonight&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noorullah814&show_icons=true&theme=tokyonight)
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noorullah814&layout=compact&theme=tokyonight)
+
+  ### 📈 Contribution Graph
+  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noorullah814&theme=tokyo-night)
 
   ### 🔥 Featured Project
   **SwiftMart** — Modern E-commerce Mobile App  
