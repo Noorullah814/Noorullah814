@@ -16,7 +16,7 @@
 - 🌱 Currently diving deeper into **Next.js** and **Generative AI**  
 - 🤝 Looking to collaborate on **AI-integrated Frontend Projects**  
 - 💬 Ask me about **React**, **Next.js**, or **ML frameworks**  
-- 📫 Reach me at: **farhantariq4636@gmail.com**
+- 📫 Reach me at: **itxnoor148@gmail.com**
 
 ---
 
