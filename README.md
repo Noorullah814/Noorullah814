@@ -1,58 +1,72 @@
+<h1 align="center">Hi 👋, I'm Noorullah</h1>
+<h3 align="center">A Skilled Frontend Developer from Pakistan 🇵🇰</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder Gif">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Noorullah814&label=Profile%20views&color=0e75b6&style=flat" alt="Noorullah814" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🌱 Currently diving deeper into **Next.js** and **Generative AI**  
+- 🤝 Looking to collaborate on **AI-integrated Frontend Projects**  
+- 💬 Ask me about **React**, **Next.js**, or **ML frameworks**  
+- 📫 Reach me at: **farhantariq4636@gmail.com**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
+  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
+</p>
+
+---
+
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Noorullah814&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Noorullah814&theme=dark" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorullah814&layout=compact&theme=github_dark" alt="Top Languages"/>
+</p>
+
+---
+
+### 💡 Fun Fact
+
+- I enjoy building intelligent applications that blend **frontend innovation** with **AI-powered functionality**!
+
+---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/hero?text=Hi%2C%20I'm%20Noor%20Ullah&section=header&type=wave&color=0x6ddba9&fontColor=0x071611&height=280" width="100%"/>
-
-  <h2>🚀 Frontend & Mobile App Developer</h2>
-  <p>Building beautiful, responsive, and high-performance applications with modern technologies</p>
-
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  
-  <br/><br/>
-
-  ### 🛠️ Tech Stack
-
-  **Frontend & Mobile**  
-  `HTML` `CSS` `JavaScript` `Tailwind CSS` `React.js` `Flutter` `Dart`
-
-  **Backend & Tools**  
-  `Firebase` `SQL` `Git` `GitHub` `Figma`
-
-  **Academic & Others**  
-  `C++ (OOP & DSA)` `Python` `Big Data Analytics` `Software Engineering`
-
-  <br/>
-
-  ### 📊 GitHub Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noorullah814&show_icons=true&theme=tokyonight)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noorullah814&layout=compact&theme=tokyonight)
-
-  ### 📈 Contribution Graph
-  ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noorullah814&theme=tokyo-night)
-
-  ### 🔥 Featured Project
-  **SwiftMart** — Modern E-commerce Mobile App  
-  Built with **Flutter + Emerald Neumorphic Design + Firebase**  
-  [→ View Project](https://github.com/Noorullah814/SwiftMart_Application)
-
-  <br/>
-
-  ### 📫 Connect With Me
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/noor-ullah-45642326b/))
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itxnoor148@gmail.com)
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-### 🌱 Currently Learning & Exploring
-- Advanced Flutter Architecture
-- Generative AI & LLMs
-- Full-Stack Development
-- Big Data Analytics
-
----
-
-*Passionate about creating clean, user-friendly digital experiences.*
