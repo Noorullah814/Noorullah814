@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Noorullah</h1>
-<h3 align="center">A Skilled Frontend Developer from Pakistan 🇵🇰</h3>
+
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=750&lines=A+Skilled+Frontend+Developer+from+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;A+Full-Stack+Developer;An+AI+%2F+Data+Scientist;A+Data+Analyst;A+Software+Engineer" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coder Gif">
@@ -13,51 +18,60 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently diving deeper into **Next.js** and **Generative AI**  
-- 🤝 Looking to collaborate on **AI-integrated Frontend Projects**  
-- 💬 Ask me about **React**, **Next.js**, or **ML frameworks**  
+- 🎓 **IT Final Year Student** | **Software Engineer** | **Full-Stack Developer** | **AI/Data Analyst**
+- 💻 With over 2 years of hands-on experience in frontend and web development.
+- 🌱 Currently diving deeper into **Generative AI**, and **Full-Stack Architecture**.
+- 🤝 Looking to collaborate on **AI-integrated Web Applications** and **Data-Driven Projects**.
+- 💬 Ask me about **React**, **Next.js**, **Tailwind CSS**, or **ML frameworks**.
 - 📫 Reach me at: **itxnoor148@gmail.com**
 
 ---
 
-### 🛠️ Languages & Tools
+### ⚡ `tech_stack.config.json`
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="D3.js" width="40" height="40"/>
-</p>
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td align="center" width="33%" style="border: 1px solid #30363d;"><b>🚀 Full-Stack</b></td>
+    <td align="center" width="33%" style="border: 1px solid #30363d;"><b>⚙️ Backend</b></td>
+    <td align="center" width="33%" style="border: 1px solid #30363d;"><b>🤖 AI & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center" style="border: 1px solid #30363d;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=ts,js,react,next&perline=4" alt="Full-Stack row 1" /><br><br>
+        <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,html,css&perline=4" alt="Full-Stack row 2" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #30363d;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3" alt="Backend row 1" /><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,prisma&perline=3" alt="Backend row 2" />
+      </a>
+    </td>
+    <td align="center" style="border: 1px solid #30363d;">
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikitlearn&perline=4" alt="AI row 1" /><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,vercel,vite&perline=4" alt="DevOps row 2" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-
-### 📊 GitHub Stats
+### 📊 `system_metrics.log`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noorullah814&show_icons=true&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Noorullah814&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=71717a&bg_color=0d1117" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorullah814&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=71717a&bg_color=0d1117" width="48%" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Noorullah814&theme=dark" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Noorullah814&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=0d1117" alt="Activity Graph" width="97%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noorullah814&layout=compact&theme=github_dark" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Noorullah814&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" width="97%"/>
 </p>
 
 ---
