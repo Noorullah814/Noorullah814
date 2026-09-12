@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Hi%20👋,%20I'm%20Noorullah&fontSize=50&fontColor=ffffff&desc=Full-Stack%20|%20AI/Data%20Scientist%20|%20Software%20Engineer%20from%20Pakistan&descAlignY=75&descAlign=50" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=250&section=header&text=Hi%20,%20I'm%20Noor Ullah&fontSize=50&fontColor=ffffff&desc=Full-Stack%20|%20AI/Data%20Scientist%20|%20Software%20Engineer%20from%20Pakistan&descAlignY=75&descAlign=50" alt="Header Banner" />
 </div>
 
 <h3 align="center">
@@ -11,7 +11,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://linkedin.com/in/noorullah">
+  <a href="https://www.linkedin.com/in/noor-ullah-45642326b/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Noorullah814">
